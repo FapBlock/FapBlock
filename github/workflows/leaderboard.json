@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "username": "تجربة",
+      "level": 5,
+      "days": 10,
+      "country": "SA",
+      "avatar_id": "default_ic"
+    }
+  ],
+  "last_update": "2025-01-08"
+}
