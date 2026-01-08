@@ -1,28 +1,5 @@
 {
   "users": [
-    {
-      "device_id": "a1b2c3d4e5f6g7h8",
-      "username": "أحمد",
-      "level": 8,
-      "days": 30,
-      "country": "SA",
-      "avatar_id": "icon_2"
-    },
-    {
-      "device_id": "z9y8x7w6v5u4t3s2",
-      "username": "محمد",
-      "level": 12,
-      "days": 50,
-      "country": "EG",
-      "avatar_id": "icon_5"
-    },
-    {
-      "username": "xnnn",
-      "level": 0,
-      "days": 6,
-      "country": "",
-      "avatar_id": "default_ic"
-    }
   ],
   "last_update": "2026-01-08 21:03:17"
 }
