@@ -1,0 +1,33 @@
+name: Update Leaderboard
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */6 * * *'
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        
+      - name: Update from Issues
+        run: |
+          echo '{"users":[],"last_update":""}' > leaderboard.json
+          
+          curl -H "Authorization: token ${{ secrets.GH_TOKEN }}" \
+            "https://api.github.com/repos/${{ github.repository }}/issues?state=open&labels=player-data" \
+            | jq -r '.[] | .body' | while read body; do
+              echo "$body" >> temp_data.txt
+          done
+          
+          # هنا يتم معالجة البيانات وتحديث leaderboard.json
+          
+      - name: Commit changes
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add leaderboard.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update leaderboard"
+          git push
