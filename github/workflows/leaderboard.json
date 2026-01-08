@@ -1,18 +1,11 @@
 {
   "users": [
     {
-      "username": "تجربة",
-      "level": 5,
-      "days": 10,
-      "country": "SA",
-      "avatar_id": "default_ic"
-    },
-    {
       "username": "لي حواك ★",
-      "level": 2,
-      "days": 2,
+      "level": ,
+      "days": ,
       "country": "",
-      "avatar_id": "default_ic"
+      "avatar_id": ""
     }
   ],
   "last_update": "2026-01-08 15:09:30"
