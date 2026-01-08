@@ -2,10 +2,10 @@
   "users": [
     {
       "username": "xnnn",
-      "level": ,
-      "days": ,
-      "country": "",
-      "avatar_id": ""
+      "level": 0,
+      "days": 0,
+      "country": "MA",
+      "avatar_id": "ic_1"
     }
   ],
   "last_update": "2026-01-08 15:09:30"
