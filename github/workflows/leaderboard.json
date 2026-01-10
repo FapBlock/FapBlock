@@ -6,6 +6,7 @@
       "days": 6,
       "country": "",
       "avatar_id": "default_ic"
+      "is_premium": "off"
     },
     {
       "username": "Little Girl ~",
@@ -13,6 +14,7 @@
       "days": 2,
       "country": "EG",
       "avatar_id": "premium_sss"
+      "is_premium": "off"
     },
     {
       "username": "EXILE ★",
@@ -20,6 +22,7 @@
       "days": 6,
       "country": "MA",
       "avatar_id": "ic_a"
+      "is_premium": "off"
     },
     {
       "device_id": "8fb7b160378f3430",
