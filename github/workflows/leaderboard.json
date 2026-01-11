@@ -1,25 +1,5 @@
 {
   "users": [
-    {
-      "device_id": "8fb7b160378f3430",
-      "username": "LITTLE ROCK",
-      "level": 0,
-      "days": 1,
-      "hours": 0,
-      "country": "DA",
-      "avatar_id": "default_ic",
-      "is_premium": "on"
-    }
-    {
-      "device_id": "94b7b788878f3430",
-      "username": "xnnn",
-      "level": 0,
-      "days": 6,
-      "hours": 1,
-      "country": "SA",
-      "avatar_id": "default_ic"
-      "is_premium": "off"
-    },
   ],
-  "last_update": "2026-01-11 20:12:47"
+  "last_update": "2026-01-11 14:19:19"
 }
