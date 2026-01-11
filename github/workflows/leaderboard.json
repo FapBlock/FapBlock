@@ -3,9 +3,20 @@
     {
       "device_id": "8fb7b160378f3430",
       "username": "LITTLE ROCK",
+      "level": 1,
+      "days": 1,
+      "hours": 12,
+      "country": "MA",
+      "avatar_id": "default_ic",
+      "is_premium": "off"
+    }
+    
+    {
+      "device_id": "8fb7b169378f3430",
+      "username": "LITTLE ROCK",
       "level": 0,
       "days": 1,
-      "hours": 0,
+      "hours": 4,
       "country": "MA",
       "avatar_id": "default_ic",
       "is_premium": "off"
