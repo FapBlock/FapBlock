@@ -1,5 +1,15 @@
 {
   "users": [
+    {
+      "device_id": "8fb7b160378f3430",
+      "username": "LITTLE ROCK",
+      "level": 0,
+      "days": 1,
+      "hours": 0,
+      "country": "MA",
+      "avatar_id": "default_ic",
+      "is_premium": "on"
+    }
   ],
-  "last_update": "2026-01-11 14:19:19"
+  "last_update": "2026-01-11 14:28:26"
 }
