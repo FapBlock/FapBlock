@@ -1,5 +1,14 @@
 {
   "users": [
+    {
+      "device_id": "8fb7b160378f3430",
+      "username": "Pajamas",
+      "level": 0,
+      "days": 8,
+      "country": "",
+      "avatar_id": "default_ic",
+      "is_premium": "off"
+    }
   ],
-  "last_update": "2026-01-11 00:04:15"
+  "last_update": "2026-01-11 08:50:15"
 }
