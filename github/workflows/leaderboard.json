@@ -11,13 +11,14 @@
     },
     {
       "device_id": "8fb7b160378f3430",
-      "username": "XXX",
+      "username": "مجهول",
       "level": 0,
-      "days": 8,
-      "country": "MA",
+      "days": 0,
+      "hours": 0,
+      "country": "",
       "avatar_id": "default_ic",
       "is_premium": "off"
     }
   ],
-  "last_update": "2026-01-11 13:28:15"
+  "last_update": "2026-01-11 14:14:19"
 }
